@@ -1,3 +1,5 @@
+// Date "25-06-2025"
+
 document.getElementById("btn").onclick = function () {
   document.getElementById("heading").innerHTML = "I'm Learning JS";
   document.getElementById("heading").style.backgroundColor = "RED";
