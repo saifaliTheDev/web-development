@@ -23,3 +23,11 @@ document.getElementById("light-off").onclick = function () {
     "https://www.w3schools.com/js/pic_bulboff.gif";
   document.body.style.backgroundColor = "black";
 };
+
+// window.alert("This is a alert message!");
+// alert("this is also alert")
+
+var firstName = "Saif Ali";
+var secondName = " Qadri";
+var fullName = firstName + secondName;
+console.log(fullName);
